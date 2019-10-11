@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  hydra:
+  - apiVersion: v1
+    appVersion: v1.0.0-rc.14_oryOS.12
+    created: "2019-10-11T01:46:12.059130032-07:00"
+    description: A Helm chart for deployoing ORY Hydra in Kubernetes
+    digest: a66a6f44ff2125c48fe1ee79d9ca2709650433bb21d4eccfb9bd6806a90324a8
+    home: https://www.ory.sh/
+    keywords:
+    - oauth2
+    - openid-connect
+    - openid
+    - oidc
+    - op
+    - api-security
+    - security
+    maintainers:
+    - email: hi@ory.sh
+      name: ORY Team
+      url: https://www.ory.sh/
+    name: hydra
+    sources:
+    - https://github.com/ory/hydra
+    - https://github.com/ory/k8s
+    urls:
+    - https://github.com/venturasr/helm-hydra/hydra-0.0.1.tgz
+    version: 0.0.1
+generated: "2019-10-11T01:46:12.057461991-07:00"
